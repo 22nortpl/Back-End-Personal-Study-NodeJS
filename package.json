@@ -1,0 +1,23 @@
+{
+  "name": "back-end-personal-study",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/22nortpl/Back-End-Personal-Study-NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/22nortpl/Back-End-Personal-Study-NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22nortpl/Back-End-Personal-Study-NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
